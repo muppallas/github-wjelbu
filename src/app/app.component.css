@@ -1,0 +1,12 @@
+.header-container{
+  width: 100%;
+}
+.query-container {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+  
+  }
+  .query-container * {
+    padding: 5px;
+}
